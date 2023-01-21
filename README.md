@@ -1,0 +1,3 @@
+# Project Absence: Plugins
+
+*WIP*
